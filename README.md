@@ -52,10 +52,10 @@ The box plot below demonstrates how much larger the variance of Lot 3 is compare
 
 
 ## Deliverable 4 - Study Design: MechaCar vs Competition
-Many consumers, especially families and those who have previously been in accidents, value safety when it comes to picking their car. To test MechaCar's safety rating against its competition, we need to create a null and alternative hypothesis.
+Many consumers value safety when it comes to picking their car. To test MechaCar's safety rating against its competition, we need to create a null and alternative hypothesis.
 
 **H0 (Null Hypothesis):** MechaCar's vehicle safety ratings are no different from its competitors 
 
 **Ha (Alternative Hypothesis):** MechaCar's vehicle safety ratings are different from its competitors 
 
-To test these, we'd need to collect safety ratings on MechaCar's models as well as its competitors from the Insurance Institute for Highway Safety, which determines saftey ratings. As the non-profit explains, their scores are determined by four factors: measurements from dummies, survival space, airbags, and seat belt effectiveness. Using that data, we could t-test the population of vehicles and each carmaker. This will help us determine if MechaCar's vehicles' safety rating scores are statistically different from its competitors as a whole and then statistically different from each competitor.
+To test these, we'd need to collect safety ratings on MechaCar's models as well as its competitors from the Insurance Institute for Highway Safety, which determines saftey ratings. As the non-profit explains, their scores are determined by four factors: ***measurements from dummies, survival space, airbags, and seat belt effectiveness***. Using that data, we could t-test the population of vehicles and each carmaker. This will help us determine if MechaCar's vehicles' safety rating scores are statistically different from its competitors as a whole and then statistically different from each competitor.
